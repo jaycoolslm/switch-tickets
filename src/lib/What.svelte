@@ -48,7 +48,7 @@
 
     :global(a) {
             background-color: var(--dark);
-            color: white;
+            color: white !important;
             text-decoration: none;
             padding: 1rem 3rem;
             border-radius: 1rem;
