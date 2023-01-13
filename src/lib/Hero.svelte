@@ -6,11 +6,13 @@
     <header>
         <img src="/logo.png" alt="Switch Tickets Logo">
     </header>
-    <div class="container">
-        <div class="row align-items-center justify-content-center">
+    <div class="">
+        <h1 class="text-center">LEARN HOW TO RESELL TICKETS WITH</h1>
+        <img src="/reseller-academy.png" alt="Switch Tickets">
+        <!-- <div class="row align-items-center justify-content-center">
             <h1  class="col-lg-6 text-center text-lg-start px-2">LEARN HOW TO RESELL TICKETS WITH</h1>
             <img class="col-lg-6" src="/reseller-academy.png" alt="Switch Tickets">
-        </div>
+        </div> -->
     </div>
     <a style="margin-top: 2rem; width: 80%" href="">JOIN NOW</a>
 
@@ -38,7 +40,12 @@
                 font-size: 2.5rem;
                 color: var(--dark);
             }
-            
+            img {
+                display: block;
+                width: 80vw;
+                max-width:700px;
+                margin: 0 auto;
+            }
         }
 
         img.smoke {
