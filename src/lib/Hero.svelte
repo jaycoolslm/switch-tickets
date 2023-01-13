@@ -8,20 +8,20 @@
     </header>
     <div class="container">
         <div class="row align-items-center justify-content-center">
-            <h1 class="col-lg-5 text-center text-lg-start">LEARN HOW TO RESELL TICKETS</h1>
-            <h1 class="col-lg-2 text-center"><i>with</i></h1>
-            <img class="col-lg-5" src="/reseller-academy.png" alt="Switch Tickets">
+            <h1  class="col-lg-6 text-center text-lg-start px-2">LEARN HOW TO RESELL TICKETS WITH</h1>
+            <img class="col-lg-6" src="/reseller-academy.png" alt="Switch Tickets">
         </div>
     </div>
-    <img class="smoke" src="/smoke.png" alt="Switch Tickets">
+    <a style="margin-top: 2rem; width: 80%" href="">JOIN NOW</a>
+
+    <!-- <img class="smoke" src="/smoke.png" alt="Switch Tickets"> -->
 </section>
 
 <style lang="scss">
     section {
         background-color: #e0e0e0;
-        height: 100vh;
         position: relative;
-
+        padding-bottom: 4rem;
         header {
         display: flex;
         justify-content: center;
@@ -36,6 +36,7 @@
             h1 {
                 font-family: 'Archivo Black', sans-serif;
                 font-size: 2.5rem;
+                color: var(--dark);
             }
             
         }

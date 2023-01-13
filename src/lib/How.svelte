@@ -1,7 +1,7 @@
 
 <section>
     <div>
-        <h2>WHY JOIN?</h2>
+        <h2>WHY JOIN RESELLERS ACADEMY?</h2>
         <p>We have found that certain ticket releases can be very profitable when resold. 
             This is because the demand for certain events massively outweighs the supply.
             <br>
@@ -12,7 +12,7 @@
             <br>
             We have made that simple by creating Resellers Academy!
         </p>
-        <a>GO TO COURSE</a>
+        <a>JOIN NOW</a>
         <img src="/ticket2.png" alt="Switch Tickets">
     </div>
 </section>
@@ -21,7 +21,7 @@
     section {
         position: relative;
         z-index: 2;
-        background-color: #333232;
+        background-color: var(--dark);
         padding: 4rem 2rem;
         div {
             background-color: white;
@@ -39,24 +39,6 @@
                 font-family: 'Archivo', sans-serif;
                 margin: 2rem 0;
             }
-            a {
-                background-color: black;
-                color: white;
-                text-decoration: none;
-                padding: 1rem 3rem;
-                border-radius: 1rem;
-                display: block;
-                text-align: center;
-                max-width: 400px;
-                margin: 0 auto;
-                font-family: 'Archivo Black', sans-serif;
-                margin-bottom: 2rem;
-                cursor: pointer;
-                transition: 0.3s all ease;
-                &:hover {
-                    background-color: var(--gold);
-                }
-            }
 
             img {
                 position: absolute;
@@ -73,17 +55,11 @@
         @media screen and (max-width: 904px) {
                 div {
                     margin: 0 auto;
-                    a {
-                        position: relative;
-                        z-index: 5;
-                    }
+                  
                     img {
-                        z-index: 1;
-                        // display: none;
-                        max-width: 100vw;
-                        right: 50%;
-                        transform: translateX(50%);
-                        bottom: -120px;
+                       
+                        display: none;
+                       
                     }
                 } 
             }

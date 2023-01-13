@@ -36,14 +36,18 @@
         h2, h6 {
             text-align: center;
             font-family: 'Archivo Black', sans-serif;  
+            color: var(--dark);
         }
 
         p {
             font-family: 'Archivo', sans-serif;
         }
 
-        a {
-            background-color: black;
+        
+    }
+
+    :global(a) {
+            background-color: var(--dark);
             color: white;
             text-decoration: none;
             padding: 1rem 3rem;
@@ -59,6 +63,5 @@
                 &:hover {
                     background-color: var(--gold);
                 }
-        }
     }
 </style>
