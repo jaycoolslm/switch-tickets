@@ -72,8 +72,18 @@
         }
         @media screen and (max-width: 904px) {
                 div {
+                    margin: 0 auto;
+                    a {
+                        position: relative;
+                        z-index: 5;
+                    }
                     img {
-                        display: none;
+                        z-index: 1;
+                        // display: none;
+                        max-width: 100vw;
+                        right: 50%;
+                        transform: translateX(50%);
+                        bottom: -120px;
                     }
                 } 
             }
