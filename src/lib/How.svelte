@@ -1,11 +1,15 @@
 
 <section>
     <div>
-        <h2>HOW IT WORKS</h2>
+        <h2>WHY JOIN?</h2>
         <p>We have found that certain ticket releases can be very profitable when resold. 
             This is because the demand for certain events massively outweighs the supply.
+            <br>
+            <br>
             As this market is not very saturated, it is easy to make money flipping these tickets; 
             all you need to know is which events are profitable.
+            <br>
+            <br>
             We have made that simple by creating Resellers Academy!
         </p>
         <a>GO TO COURSE</a>
@@ -15,8 +19,10 @@
 
 <style lang="scss">
     section {
+        position: relative;
+        z-index: 2;
         background-color: #333232;
-        padding: 4rem;
+        padding: 4rem 2rem;
         div {
             background-color: white;
             max-width: 600px;

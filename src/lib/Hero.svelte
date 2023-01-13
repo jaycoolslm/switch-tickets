@@ -8,8 +8,9 @@
     </header>
     <div class="container">
         <div class="row align-items-center justify-content-center">
-            <h1 class="col-lg-6 text-center text-lg-start">LEARN HOW TO RESELL TICKETS</h1>
-            <img class="col-lg-6" src="/ticket1.png" alt="Switch Tickets">
+            <h1 class="col-lg-5 text-center text-lg-start">LEARN HOW TO RESELL TICKETS</h1>
+            <h1 class="col-lg-2 text-center"><i>with</i></h1>
+            <img class="col-lg-5" src="/reseller-academy.png" alt="Switch Tickets">
         </div>
     </div>
     <img class="smoke" src="/smoke.png" alt="Switch Tickets">
@@ -41,7 +42,7 @@
 
         img.smoke {
             position: absolute;
-            bottom: 0;
+            bottom: -20px;
             left: 0;
             width: 70vw;
         }
