@@ -26,7 +26,7 @@
             </div>
         </div>
     </div>
-    <a href="">I'M READY TO JOIN</a>
+    <a href="https://resellersacademy.hyper.co/">I'M READY TO JOIN</a>
 </section>
 
 <style lang="scss">

@@ -14,7 +14,7 @@
             <img class="col-lg-6" src="/reseller-academy.png" alt="Switch Tickets">
         </div> -->
     </div>
-    <a style="margin-top: 2rem; width: 80%" href="">JOIN NOW</a>
+    <a style="margin-top: 2rem; width: 80%" href="https://resellersacademy.hyper.co/">JOIN NOW</a>
 
     <!-- <img class="smoke" src="/smoke.png" alt="Switch Tickets"> -->
 </section>
@@ -42,8 +42,9 @@
             }
             img {
                 display: block;
-                width: 80vw;
-                max-width:700px;
+                // width: 80vw;
+                // max-width:700px;
+                max-height: 50vh;
                 margin: 0 auto;
             }
         }

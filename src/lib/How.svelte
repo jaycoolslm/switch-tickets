@@ -12,7 +12,7 @@
             <br>
             We have made that simple by creating Resellers Academy!
         </p>
-        <a>JOIN NOW</a>
+        <a href="https://resellersacademy.hyper.co/">JOIN NOW</a>
         <img src="/ticket2.png" alt="Switch Tickets">
     </div>
 </section>
