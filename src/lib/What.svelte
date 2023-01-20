@@ -26,7 +26,7 @@
             </div>
         </div>
     </div>
-    <a href="https://resellersacademy.hyper.co/">I'M READY TO JOIN</a>
+    <a class="btn" href="https://resellersacademy.hyper.co/">I'M READY TO JOIN</a>
 </section>
 
 <style lang="scss">
@@ -46,7 +46,7 @@
         
     }
 
-    :global(a) {
+    :global(a.btn) {
             background-color: var(--dark);
             color: white !important;
             text-decoration: none;
