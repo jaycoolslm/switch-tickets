@@ -20,7 +20,7 @@
 <style lang="scss">
     footer {
         background-color: var(--dark);
-        padding: 4rem;
+        padding: 2rem;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -28,6 +28,9 @@
         h5 {
             color: white;
             text-align: center;
+        }
+        a {
+            color: black;
         }
         img {
             margin: 0 1rem;
