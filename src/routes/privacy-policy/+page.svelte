@@ -2,7 +2,6 @@
 
 <main>
     <h1>Privacy policy</h1>
-    <br><br>
     <p>
         When you use our services, you’re trusting us with your information. We understand
 this is a big responsibility and work hard to protect your information and put you in
@@ -11,10 +10,8 @@ control.
 This Privacy Policy is meant to help you understand what information we collect, why we collect
 it, and how you can update, manage, export, and delete your information.
 </p>
-<br><br>
 <h4>Introduction:</h4>
 
-<br><br>
 <p>
     At Switch Tickets, we are committed to protecting your privacy. This Privacy Policy
     explains how we collect, use, and disclose your personal information when you visit
@@ -22,12 +19,10 @@ it, and how you can update, manage, export, and delete your information.
     terms of this Privacy Policy.
 </p>
 
-<br><br>
 <h4>
     Information Collection:
 </h4>
 
-<br><br>
 <p>
    We may collect personal information from you when you use our website or services,
 such as your name, email address, and any other information you choose to provide.
@@ -64,12 +59,10 @@ law or with your consent. We may share your personal information with our partne
 but only for the purpose of providing and improving our website and services.
 </p>
 
-<br><br>
 <h4>
     Security:    
 </h4>
 
-<br><br>
 <p>
     We take appropriate measures to secure your personal information, including using
     encryption and firewalls to protect against unauthorized access. However, no
@@ -77,23 +70,19 @@ but only for the purpose of providing and improving our website and services.
     security of your personal information. 
 </p>
 
-<br><br>
 <h4>
 Changes to this Policy:
 </h4>
-<br><br>
 <p>
     We may update this policy from time to time, and will notify you of any changes. Your
     continued use of our website and services after any changes indicates your
     acceptance of the new policy.
 </p>
 
-<br><br>
 <h4>
     Contact Us:
 
 </h4>
-<br><br>
 <p>
 If you have any questions or concerns about this policy, please contact us at <a href="mailto:switchtickets@outlook.com">switchtickets@outlook.com</a>.
     </p>
