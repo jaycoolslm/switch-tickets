@@ -12,8 +12,8 @@
         </a>
     </div>
     <div>
-        <a href="/privacy-policy">Privacy Policy</a>
-        <a href="/terms-of-service">Terms of Service</a>
+        <a target="_blank" href="/privacy-policy">Privacy Policy</a>
+        <a target="_blank" href="/terms-of-service">Terms of Service</a>
     </div>
 </footer>
 

@@ -116,6 +116,14 @@ these basic rules of conduct:
         </li>
 
         <li>
+            Refund Policy
+            <ul>
+                <li>We accept refunds up until 7-days after the purchase.</li>
+                <li>If we cancel your membership for breaking our Terms of Service you may lose the right to a refund.</li>
+            </ul>
+        </li>
+
+        <li>
             Limitation of Liability
             <ul>
                 <li>In no event shall we be liable for any damages whatsoever, including but not limited to,
