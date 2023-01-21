@@ -2,6 +2,8 @@
 
 <main>
     <h1>Terms of Service</h1>
+    <br><br>
+
     <h6>We know it’s tempting to skip these Terms of Service, but it’s important to
         establish what you can expect from us as you use Switch Tickets’ services,
         and what we expect from you.</h6>
