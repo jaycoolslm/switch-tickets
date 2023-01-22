@@ -42,10 +42,16 @@
             }
             img {
                 display: block;
-                // width: 80vw;
-                // max-width:700px;
-                max-height: 50vh;
+                width: 80vw;
+                max-width:500px;
+                // max-height: 50vh;
                 margin: 0 auto;
+            }
+
+            @media screen and (max-width: 400px) {
+                h1 {
+                    font-size: 2rem;
+                }
             }
         }
 
