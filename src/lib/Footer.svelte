@@ -10,6 +10,10 @@
         <a target="_blank" href="https://instagram.com/switchtickets?igshid=YmMyMTA2M2Y=">
             <img src="/instagram.svg" width="25" alt="">
         </a>
+        <a target="_blank" href="http://discord.gg/resellersacademy">
+            <img src="/discord.svg" width="25" alt="">
+        </a>
+        
     </div>
     <div>
         <a target="_blank" href="/privacy-policy">Privacy Policy</a>
