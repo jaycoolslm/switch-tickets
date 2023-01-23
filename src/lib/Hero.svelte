@@ -14,7 +14,7 @@
             <img class="col-lg-6" src="/reseller-academy.png" alt="Switch Tickets">
         </div> -->
     </div>
-    <a class="btn" style="margin-top: 2rem; width: 80%" href="https://resellersacademy.hyper.co/">JOIN NOW</a>
+    <a class="btn" style="margin-top: 2rem; width: 80%" href="https://dashboard.switch-tickets.com/">JOIN NOW</a>
 
     <!-- <img class="smoke" src="/smoke.png" alt="Switch Tickets"> -->
 </section>
