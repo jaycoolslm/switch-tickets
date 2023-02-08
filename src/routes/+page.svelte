@@ -1,8 +1,16 @@
 <script lang="ts">
-    import Hero from "$lib/Hero.svelte";
-    import How from "$lib/How.svelte"
-    import What from "$lib/What.svelte"
+	import Hero from '$lib/Hero.svelte';
+	import How from '$lib/How.svelte';
+	import What from '$lib/What.svelte';
 </script>
+
+<svelte:head>
+	<title>Switch Tickets</title>
+	<meta
+		name="description"
+		content="Looking to make a second income by reselling tickets? Join Resellers Academy by Switch Tickets today and learn everything there is to know, including which events will be profitable and how much profit you’ll be making."
+	/>
+</svelte:head>
 
 <Hero />
 <How />
