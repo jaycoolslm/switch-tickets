@@ -35,14 +35,6 @@
 			}
 		}
 	}
-	button {
-		background-color: black;
-		border: none;
-		color: white;
-		border-radius: 2rem;
-		padding: 0.5rem 1.5rem;
-		font-family: 'Archivo', sans-serif;
-	}
 
 	@media screen and (min-width: 805px) {
 		section {
