@@ -22,9 +22,8 @@
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-evenly;
-		margin: 2rem;
-
-		gap: 1rem;
+		margin: 4rem 0;
+		gap: 2rem;
 		img,
 		div {
 			width: 80vw;

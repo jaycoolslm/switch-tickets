@@ -1,6 +1,6 @@
 <section>
-	<h1>Any ticket, any time</h1>
-	<button>Get my tickets</button>
+	<h1>Any <span>ticket</span>, any time</h1>
+	<button>Source tickets</button>
 
 	<img src="/tick.svg" alt="Switch Tickets" />
 </section>
@@ -15,13 +15,32 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: flex-start;
-		h1 {
+		h1,
+		span {
 			color: white;
 			font-family: 'Prompt', sans-serif;
 			font-size: 5rem;
 			font-weight: 700;
 			max-width: 500px;
 		}
+
+		span {
+			position: relative;
+
+			&::after {
+				content: '';
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 6rem;
+
+				border: solid 2px #000;
+				border-color: #000 transparent transparent transparent;
+				border-radius: 13em/3em;
+			}
+		}
+
 		button {
 			background-color: black;
 			border: none;

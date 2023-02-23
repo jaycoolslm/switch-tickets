@@ -1,6 +1,8 @@
 <script lang="ts">
 	import Hero from '$lib/home/hero.svelte';
 	import TextImage from '$lib/home/textImage.svelte';
+	import Form from '$lib/home/form.svelte';
+	import ResellersSection from '$lib/home/resellersSection.svelte';
 </script>
 
 <svelte:head>
@@ -36,3 +38,7 @@
 	">Start now</button
 	>
 </TextImage>
+
+<Form />
+
+<ResellersSection />
