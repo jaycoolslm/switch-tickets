@@ -24,7 +24,8 @@
 		text-align: center;
 
 		img {
-			max-width: 400px;
+			width: 400px;
+			max-width: 70vw;
 			margin: 0 auto;
 		}
 
