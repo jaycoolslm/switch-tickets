@@ -8,8 +8,8 @@
 <style lang="scss">
 	section {
 		background-image: linear-gradient(180deg, #fcb879 0%, #e88225 100%);
-		min-height: 80vh;
-		padding-left: 5vw;
+		// min-height: 50vh;
+		padding: 5vw;
 		position: relative;
 		display: flex;
 		flex-direction: column;
@@ -41,6 +41,17 @@
 			}
 		}
 
+		@media screen and (max-width: 494px) {
+			h1,
+			span {
+				font-size: 3rem;
+			}
+
+			span::after {
+				top: 4rem;
+			}
+		}
+
 		button {
 			background-color: black;
 			border: none;
@@ -54,7 +65,8 @@
 			position: absolute;
 			top: 0;
 			right: 0;
-			max-height: 80vh;
+			// max-height: 50vh;
+			height: 100%;
 		}
 	}
 
