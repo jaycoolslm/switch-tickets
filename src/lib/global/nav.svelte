@@ -10,7 +10,9 @@
 	let links: Links[] = [
 		{ name: 'Home', slug: '/' },
 		{ name: 'Resellers Academy', slug: '/resellers-academy' },
-		{ name: 'Contact', slug: '/contact' }
+		{ name: 'Contact', slug: '/contact' },
+		{ name: 'Terms', slug: '/terms-of-service' },
+		{ name: 'Privacy Policy', slug: 'privacy-policy' }
 	];
 
 	let hamburgerActive: boolean = false;
@@ -76,6 +78,7 @@
 			position: absolute;
 			top: 10vh;
 			left: 100%;
+			padding-top: 1rem;
 			height: calc(100vh - 10vh);
 			background-color: white;
 			display: flex;
@@ -83,14 +86,16 @@
 			width: 100vw;
 			max-width: 500px;
 			// z-index: 100;
-			align-items: center;
-			justify-content: space-evenly;
+			// align-items: center;
+			// justify-content: space-evenly;
+			gap: 1rem;
 			transition: all 0.7s ease;
 			list-style: none;
 			&.open {
 				transform: translateX(-100%);
 			}
 			li {
+				width: fit-content;
 				&::after {
 					content: '';
 					display: block;
