@@ -22,7 +22,6 @@
 		display: flex;
 		// flex-wrap: wrap;
 		justify-content: space-evenly;
-		margin: 2rem 0;
 		gap: 2rem;
 		padding: 2rem;
 		h2 {
