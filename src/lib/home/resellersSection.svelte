@@ -30,7 +30,7 @@
 		}
 
 		h2 {
-			font-family: 'Archivo Black', sans-serif;
+			font-family: var(--header-font);
 		}
 
 		a {
@@ -43,7 +43,7 @@
 			text-align: center;
 			max-width: 400px;
 			margin: 0 auto;
-			font-family: 'Archivo Black', sans-serif;
+			font-family: var(--header-font);
 			margin-bottom: 2rem;
 			cursor: pointer;
 			transition: 0.3s all ease;

@@ -18,7 +18,7 @@
 		h1,
 		span {
 			color: white;
-			font-family: 'Prompt', sans-serif;
+			font-family: var(--header-font);
 			font-size: 5rem;
 			font-weight: 700;
 			max-width: 500px;

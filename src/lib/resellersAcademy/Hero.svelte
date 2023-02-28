@@ -40,8 +40,8 @@
 		div {
 			padding-top: 2rem;
 			h1 {
-				font-family: 'Archivo Black', sans-serif;
-				font-size: 2.5rem;
+				font-family: var(--header-font);
+				font-size: 3rem;
 				color: var(--dark);
 			}
 			img {

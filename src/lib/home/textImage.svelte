@@ -26,6 +26,7 @@
 		padding: 2rem;
 		h2 {
 			font-weight: 700;
+			font-family: var(--header-font);
 		}
 
 		// img {
