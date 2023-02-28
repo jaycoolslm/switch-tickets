@@ -1,6 +1,6 @@
 <section>
 	<h1>Any <span>ticket</span>, any time</h1>
-	<button>Source tickets</button>
+	<a href="#form">Source tickets</a>
 
 	<img src="/tick.svg" alt="Switch Tickets" />
 </section>
@@ -52,7 +52,8 @@
 			}
 		}
 
-		button {
+		a {
+			text-decoration: none;
 			background-color: black;
 			border: none;
 			color: white;

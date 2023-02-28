@@ -27,15 +27,17 @@
 	title="Any event, anywhere"
 	text="When you submit your request, we will ask you for information on the event such as its name and the amount of tickets you require. Once you submit, we will find those tickets and contact you so you can buy them."
 >
-	<button
+	<a
 		style="
 		background-color: black;
 		border: none;
 		color: white;
 		border-radius: 2rem;
-		padding: 0.5rem 1.5rem;
+		padding: 0.75rem 1.5rem;
 		font-family: 'Archivo', sans-serif;
-	">Start now</button
+		text-decoration: none;
+	"
+		href="#form">Start now</a
 	>
 </TextImage>
 

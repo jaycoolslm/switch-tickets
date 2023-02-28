@@ -1,7 +1,7 @@
 <script lang="ts">
 </script>
 
-<section>
+<section id="form">
 	<form action="">
 		<h3>Fill out the information below</h3>
 
