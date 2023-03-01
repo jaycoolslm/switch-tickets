@@ -3,7 +3,7 @@
 		<img src="/reseller-academy.png" alt="Switch Tickets" />
 		<h2>Want to learn how to make money through reselling tickets?</h2>
 		<p>Join Resellers Academy and start learning today</p>
-		<a href="/resellers-academy">More information</a>
+		<a href="/resellers-academy">More Information</a>
 	</div>
 </section>
 
@@ -31,6 +31,14 @@
 
 		h2 {
 			font-family: var(--header-font);
+			color: var(--dark);
+			text-transform: uppercase;
+		}
+
+		@media screen and (max-width: 500px) {
+			h2 {
+				font-size: 1.2rem;
+			}
 		}
 
 		a {

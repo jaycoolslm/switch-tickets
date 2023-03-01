@@ -10,8 +10,8 @@
 	let links: Links[] = [
 		{ name: 'Home', slug: '/' },
 		{ name: 'Resellers Academy', slug: '/resellers-academy' },
-		{ name: 'Contact', slug: '/contact' },
-		{ name: 'Terms', slug: '/terms-of-service' },
+		{ name: 'Contact Us', slug: '/contact' },
+		{ name: 'Terms of Service', slug: '/terms-of-service' },
 		{ name: 'Privacy Policy', slug: 'privacy-policy' }
 	];
 

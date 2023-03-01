@@ -1,6 +1,6 @@
 <section>
-	<h1>Any <span>ticket</span>, any time</h1>
-	<a href="#form">Source tickets</a>
+	<h1>Any <span>Time</span>, Any Ticket</h1>
+	<a href="#form">Source Tickets</a>
 
 	<img src="/tick.svg" alt="Switch Tickets" />
 </section>
@@ -33,7 +33,7 @@
 				width: 100%;
 				height: 100%;
 				left: 0;
-				top: 6rem;
+				top: 5.5rem;
 
 				border: solid 2px #000;
 				border-color: #000 transparent transparent transparent;

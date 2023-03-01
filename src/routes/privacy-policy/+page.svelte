@@ -38,19 +38,17 @@
 		Stripe is PCI-compliant and uses industry- standard security measures to protect your payment information.
 	</p>
 
-	<br /><br />
 	<h4>Use of Information:</h4>
-	<br /><br />
 	<p>
 		We use your personal information to provide and improve our website and services, and to
 		communicate with you. We may also use your personal information for research, analysis, and
 		marketing purposes.
-		<br /><br />
-		Disclosure of Information:
-		<br /><br />
-		We will not disclose your personal information to any third parties, unless required by law or with
-		your consent. We may share your personal information with our partners, but only for the purpose
-		of providing and improving our website and services.
+	</p>
+	<h4>Disclosure of Information:</h4>
+	<p>
+		We will not disclose your personal information to any third parties, unless required by law or
+		with your consent. We may share your personal information with our partners, but only for the
+		purpose of providing and improving our website and services.
 	</p>
 
 	<h4>Security:</h4>
