@@ -48,7 +48,7 @@
 			}
 
 			span::after {
-				top: 3.5rem;
+				top: 3rem;
 			}
 		}
 
