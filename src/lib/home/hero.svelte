@@ -48,7 +48,7 @@
 			}
 
 			span::after {
-				top: 4rem;
+				top: 3.5rem;
 			}
 		}
 
@@ -75,7 +75,7 @@
 		section {
 			align-items: center;
 			h1 {
-				text-align: center;
+				// text-align: center;
 			}
 			img {
 				display: none;
