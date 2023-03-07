@@ -8,8 +8,8 @@
 			formLoading = true;
 			const res = await emailjs.sendForm(
 				import.meta.env.VITE_EMAILJS_SERVICE,
-				'template_9pet0gn',
-				'#tickets-form',
+				'template_1tm1i97',
+				'#contact-form',
 				import.meta.env.VITE_EMAILJS_PUB
 			);
 			console.log(res);
@@ -26,7 +26,7 @@
 </script>
 
 <section id="form">
-	<form id="tickets-form" on:submit|preventDefault={submit}>
+	<form id="contact-form" on:submit|preventDefault={submit}>
 		<h3>Fill out the information below</h3>
 
 		<div>
@@ -40,29 +40,10 @@
 		</div>
 
 		<div>
-			<label for="mobile">Mobile *</label>
-			<input type="tel" name="mobile" required />
+			<label for="message">Message *</label>
+			<textarea name="message" rows="7" />
 		</div>
 
-		<div class="min-width-50">
-			<label for="eventName">Event name *</label>
-			<input type="text" name="eventName" required />
-		</div>
-
-		<div class="min-width-50">
-			<label for="eventType">Event type</label>
-			<input type="text" name="eventType" />
-		</div>
-
-		<div class="min-width-50">
-			<label for="amount">Amount of tickets *</label>
-			<input type="text" name="amount" required />
-		</div>
-
-		<div class="min-width-50">
-			<label for="extra">Extra information</label>
-			<input type="text" name="extra" required />
-		</div>
 		<button type="submit">Submit</button>
 		{#if formSuccess !== undefined}
 			<div>
@@ -111,7 +92,8 @@
 			margin-bottom: 0.25rem;
 		}
 
-		input {
+		input,
+		textarea {
 			border-radius: 1rem;
 			border: none;
 			width: 100%;
