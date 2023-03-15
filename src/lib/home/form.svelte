@@ -83,7 +83,7 @@
 
 <style lang="scss">
 	section {
-		padding: 0 2rem 2rem;
+		padding: 2rem 0;
 	}
 	form {
 		margin: 0 auto;

@@ -33,6 +33,8 @@
 		border: none;
 		color: white;
 		border-radius: 2rem;
+		margin: 0.75rem 0;
+		display: inline-block;
 		padding: 0.75rem 1.5rem;
 		font-family: 'Archivo', sans-serif;
 		text-decoration: none;

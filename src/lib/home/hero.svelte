@@ -15,6 +15,9 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: flex-start;
+		h1 {
+			margin-top: 1rem;
+		}
 		h1,
 		span {
 			color: white;
@@ -60,6 +63,7 @@
 			border-radius: 2rem;
 			padding: 0.5rem 1.5rem;
 			font-family: 'Archivo', sans-serif;
+			margin-bottom: 1rem;
 		}
 
 		img {
